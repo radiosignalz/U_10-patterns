@@ -51,5 +51,5 @@ $tree = new BinaryTree();
 
 $tree->insert(12);
 $tree->insert(32);
-$tree->insert(62);
+
 var_dump($tree);
